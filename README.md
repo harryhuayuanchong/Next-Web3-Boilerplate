@@ -5,23 +5,7 @@
 
 <h1><strong> Next Web3 Boilerplate </strong></h1>
 
-<br></br>
-
 </div>
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Update:](#update)
-- [Description](#description)
-- [Built With](#built-with)
-- [Installation](#installation)
-  - [Make sure you have the following ready:](#make-sure-you-have-the-following-ready)
-  - [Once your config is ready, create a new repo, open your favorite code editor, and clone the repo with the following cmd:](#once-your-config-is-ready-create-a-new-repo-open-your-favorite-code-editor-and-clone-the-repo-with-the-following-cmd)
-  - [Install all package dependancies by running:](#install-all-package-dependancies-by-running)
-  - [Add your API keys in the .env file:](#add-your-api-keys-in-the-env-file)
-  - [To start the Next-Web3-Boilerplate:](#to-start-the-next-web3-boilerplate)
-- [Features:](#features)
 
 ## Built With
 
