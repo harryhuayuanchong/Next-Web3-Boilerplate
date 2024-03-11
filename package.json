@@ -1,16 +1,10 @@
 {
-  "name": "next-web3-boilerplate",
+  "name": "w3d-boiletplate",
   "version": "1.0.1",
   "description": "Nextjs web3 boilerplate built on Viem, Wagmi, rainbowkit and Chakra UI",
-  "author": "Pedrojok01 <pedrojok@pm.me>",
+  "author": "",
   "license": "MIT",
   "private": true,
-  "homepage": "https://next-web3-boilerlate.com",
-  "bugs": "https://github.com/Pedrojok01/Next-Web3-Boilerplate/issues",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Pedrojok01/Next-Web3-Boilerplate"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
