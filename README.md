@@ -5,16 +5,7 @@
 
 <h1><strong> Next Web3 Boilerplate </strong></h1>
 
-[![Stargazers](https://img.shields.io/github/stars/Pedrojok01/Next-Web3-Boilerplate)](https://github.com/Pedrojok01/Next-Web3-Boilerplate/stargazers)
-[![Forks](https://img.shields.io/github/forks/Pedrojok01/Next-Web3-Boilerplate)](https://github.com/Pedrojok01/Next-Web3-Boilerplate/issues)
-[![Issues](https://img.shields.io/github/issues/Pedrojok01/Next-Web3-Boilerplate)](https://github.com/Pedrojok01/Next-Web3-Boilerplate/issues)
-[![MIT License](https://img.shields.io/github/license/Pedrojok01/Next-Web3-Boilerplate)](https://github.com/Pedrojok01/Next-Web3-Boilerplate/blob/main/License)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-e/)
-![Vercel](https://img.shields.io/github/deployments/Pedrojok01/Next-Web3-Boilerplate/production?label=Vercel&logo=Vercel&logoColor=white)
-
 <br></br>
-
-![Preview](./public/img/preview.gif)
 
 </div>
 
@@ -31,24 +22,6 @@
   - [Add your API keys in the .env file:](#add-your-api-keys-in-the-env-file)
   - [To start the Next-Web3-Boilerplate:](#to-start-the-next-web3-boilerplate)
 - [Features:](#features)
-- [⭐️ ... and don't forget to leave a star if you like it! ⭐️](#️--and-dont-forget-to-leave-a-star-if-you-like-it-️)
-
-
-## Update:
-
-2024-02:
-
-- Switched to Next.js v14;
-- Switched to Viem & Wagmi v2;
-- Add support for  `Linea`, `lineaTestnet`, `Bsc` & `bscTestnet` networks;
-- Bump all dependencies to latest versions;
-
-
-## Description
-
-Simple and minimalist Web3 boilerplate to boost your Dapp development. Built using the latest tech outhere: [Next.js](https://nextjs.org/), [Viem](https://viem.sh/), [Wagmi](https://wagmi.sh/), [RainbowKit](https://www.rainbowkit.com/), [ChakraUI](https://chakra-ui.com/) and [Typescript](https://www.typescriptlang.org/). Eslint, Prettier and Husky already configured. The perfect starting point for your next web3 project.
-
-Try it yourself: [https://next-web3-boilerplate.com/](https://next-web3-boilerplate.com/)
 
 ## Built With
 
@@ -63,17 +36,15 @@ Try it yourself: [https://next-web3-boilerplate.com/](https://next-web3-boilerpl
 
 ## Installation
 
-### Make sure you have the following ready:
-
 - [node.js](https://nodejs.org/) installed (developped on LTS v18)
 - [typescript](https://www.typescriptlang.org/) installed (developped on v5.2.2)
 - [bun](https://bun.sh/) or [pnpm](https://pnpm.io/) or [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) installed
 - [MetaMask](https://metamask.io/) (or any web3 compatible wallet) installed in your browser
 
-### Once your config is ready, create a new repo, open your favorite code editor, and clone the repo with the following cmd:
+### First step:
 
 ```bash
-git clone https://github.com/Pedrojok01/Next-Web3-Boilerplate.git .
+git clone git@github.com:harryhuayuanchong/Next-Web3-Boilerplate.git .
 ```
 
 ### Install all package dependancies by running:
@@ -87,8 +58,6 @@ yarn install
 # or
 npm install
 ```
-
-<b>IMPORTANT: Double check your package.json to make sure you've installed the exact same version for all @web3-react packages. Since the version 8+ is still in beta, it may not be automatically installed.</b>
 
 ### Add your API keys in the .env file:
 
@@ -127,15 +96,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <br></br>
 
 <div align="center">
-<h2> Enjoy!!!</h2>
 
 <br>
 
-## ⭐️ ... and don't forget to leave a star if you like it! ⭐️
-
 </div>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
