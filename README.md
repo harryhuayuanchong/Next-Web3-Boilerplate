@@ -51,7 +51,7 @@ Remove the `.example` from the `.env.example` file name at the root of the proje
 NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID = "Project ID needed for WalletConnect v2 here";
 ```
 
-### To start the Next-Web3-Boilerplate:
+### To start the W3D:
 
 First, run the development server:
 

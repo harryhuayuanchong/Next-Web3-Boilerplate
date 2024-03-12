@@ -59,7 +59,7 @@ const connectors = connectorsForWallets(
       ],
     },
   ],
-  { appName: "Next-Web3-Boilerplate", projectId: walletConnectProjectId },
+  { appName: "W3D", projectId: walletConnectProjectId },
 );
 
 // Fix missing icons
